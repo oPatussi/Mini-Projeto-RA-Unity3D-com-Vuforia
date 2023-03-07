@@ -18,7 +18,7 @@ Após criar um projeto base 3D da Unity será necessário baixar os pacotes e re
 
 Use a imagem a baixo como alvo (não é necessário ser específicamente essa imagem) .
 
-<img src="img/target.png">
+<img src="img/Target.png">
 
 Após baixar o pacote para o Unity do Vuforia no segundo **link importante**, siga o seguinte caminho para adicionar o pacote em seu projeto:
 #
@@ -100,3 +100,8 @@ Siga o caminho a seguir
 - Eixo "Y": Teclas Espaço e Ctrl (esquerdo)
 - Eixo "Z": Teclas "W" e "S" ou nas setas para cima e para baixo;
 - Rotação: Tecla "Z" e "X".
+#
+## **INFORMAÇÕES ADICIONAIS**
+O Unity3D é uma ferramenta muito poderosa, e uma de suas milhares de opções disponíveis, é poder adicionar gravidade e impacto entre objetos utilizando as configurações de corpo rígido (Rigidbody) e os "Colliders", respectivamente.
+
+<img src="img/imagem_2.png">
